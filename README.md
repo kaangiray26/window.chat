@@ -1,2 +1,2 @@
-# windowchat
-Window Chat Source Code
+# window.chat
+window.chat Source Code
